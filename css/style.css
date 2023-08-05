@@ -1,0 +1,51 @@
+.mainheader {
+    width: 1440px;
+    background: #D9D9D9;
+    margin: auto;
+    padding: 50px 130px;
+}
+
+.header_img {
+    vertical-align: middle;
+
+}
+
+.headernav {
+
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+
+li {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: ALK Life;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.mainheaderli1 {
+    margin-left: 150px;
+
+}
+
+.mainheaderlisame {
+    margin-inline: 38px;
+}
+.mainheaderlisame1{
+    margin-left: 38px;
+
+}
+
+/* background image */
+
+.background_image{
+
+    margin: 160px auto;
+    display: block;
+
+}
